@@ -33,7 +33,7 @@ puzzlecam/
 
 **1. Clona el repositorio**
 ```bash
-git clone (https://github.com/Jheremy-Conca/PuzzleCam.git)
+git clone https://github.com/Jheremy-Conca/PuzzleCam.git
 cd puzzlecam
 ```
 
